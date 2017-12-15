@@ -2,7 +2,7 @@
 crypto with ed25519 + base58 or other
 
 ## demo
-1. [ed25519 with base58][demo_ed25519]
+1. [ed25519 with base58][demo_ed25519_server]
 
 ## dependency 
 1. `nacl` or `nacl-fast` can ref ***[tweetnacl-js][tweetnacl-js]***
@@ -43,3 +43,4 @@ You also can view the file ***[ed25519_test.html][demo_ed25519]*** in demo dir.
 [tweetnacl-js]:https://github.com/dchest/tweetnacl-js
 [meteor-base58]:https://github.com/gghez/meteor-base58
 [demo_ed25519]:/demo/ed25519_test.html
+[demo_ed25519_server]:https://www.futurever.com/crypto/
